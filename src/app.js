@@ -8,15 +8,15 @@ import "./assets/img/4geeks.ico";
 window.onload = () => {
   // variables
 
-  const who = ["El perro", "Mi abuela", "El cartero", "Mi pájaro"];
-  const action = ["comió", "orinó", "aplastó", "rompió"];
-  const what = ["mi tarea", "mi teléfono", "el coche"];
+  const who = ["The dog", "My grandma", "The mailman", "My bird"];
+  const action = ["ate", "peed", "crushed", "broke"];
+  const what = ["my homework", "my phone", "the car"];
   const when = [
-    "antes de la clase",
-    "cuando estaba durmiendo",
-    "mientras hacía ejercicio",
-    "durante mi almuerzo",
-    "mientras estaba rezando"
+    "before the class",
+    "when I was sleeping",
+    "while I was exercising",
+    "during my lunch",
+    "while I was praying"
   ];
 
   // Funciones
